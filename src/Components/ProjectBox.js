@@ -9,6 +9,14 @@ const  ProjectBox = ({projectPhoto, projectName,projectNameImag}) => {
     ERPGithub : "",
     ERPWebsite : "",
 
+      TAFDesc : "Our platform provides a seamless experience for adding products to carts and completing purchases.\n" +
+          "• Users can access training courses to create products independently and subscribe for ongoing learning.\n" +
+          "• Google Maps integration helps locate nearby stores.\n" +
+          "• Craftsmen have a control panel to manage products and add stores to Google Maps.\n" +
+          "• The admin dashboard allows for managing courses, approving products, and creating special offers, streamlining administrative tasks and site management.",
+      TAFGithub : "",
+      TAFWebsite : "",
+
     UKDesc : "This system was developed to streamline the process of applying for a UK Electronic Visa Waiver (EVW), allowing eligible travelers to easily submit their applications online. Working on this project helped me enhance my knowledge of secure form handling, data validation, and integrating third-party APIs for processing visa applications.",
     UKGithub : "",
     UKWebsite : "https://www.visawaiver.co.uk/public/",
